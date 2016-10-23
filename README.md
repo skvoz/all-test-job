@@ -21,6 +21,9 @@ $ php console.php files:get-double
  - Symfony Constole Components
  - Symfony Filesystem
 
-
 ##Result
- spent time 3h
+ spent time 9h
+ 
+##STANDARD
+- PSR2
+- unit tests
